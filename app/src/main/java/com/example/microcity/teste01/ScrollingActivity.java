@@ -10,7 +10,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 /**
- * Test Gitdd0015556666
+ * Test Git
  */
 
 public class ScrollingActivity extends AppCompatActivity {
